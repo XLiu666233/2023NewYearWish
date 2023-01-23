@@ -381,7 +381,7 @@ void eles(void)
     printf("\n\n\n\n\n\n\n\n\n                                \n                                \n                                \n                                \n                                \n                                \n                                \n                                \n                                2 2 2 2 2 2    0 0 0 0 0 0    2 2 2 2 2 2    2 2 2 2 2 2\n");
     Sleep(80);
     system("cls");
-    printf("\n\n\n\n\n\n\n\n\n                                \n                                \n                                \n                                \n                                \n                                \n                                \n                                \n                                \n                                \n");
+    printf("\n\n\n\n\n\n\n\n\n                                \n                                \n                                \n                                \n                                \n                                \n                                \n                                \n                                \n");
     Sleep(180);
     system("cls");
     printf("\n\n\n\n\n\n\n\n\n                                2\n");
