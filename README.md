@@ -2,7 +2,7 @@
 （这个标题貌似不能完整地上传……）
 
 我是小遛，目前是大一学生。该程序有Android和Windows两个版本。
-Android版写于2023.1.20。当时没有想太多，临时写了一个ver. 1.0出来，用了大量的复制粘贴、主要是为了做一个逐帧动画的效果。编译器是“C语言编译器(C compiler)” Version 10.2.10，图标是白底蓝字。Windows版是基于Android版改来的，写于2023.1.22，所以我从ver. 2.0开始编号。这里需要感谢 @ChaseOne1 的帮助，我在“祝福语”部分加入了彩色字体，使得程序的视觉效果更丰富了。编译器是Visual Studio 2022。展示视频请见 https://www.bilibili.com/video/BV1XG4y1D7qf/
+Android版写于2023.1.20。当时没有想太多，临时写了一个ver. 1.0出来，用了大量的复制粘贴、主要是为了做一个逐帧动画的效果。编译器是“C语言编译器(C compiler)” Version 10.2.10，图标是白底蓝字。Windows版是基于Android版改来的，写于2023.1.22，所以我从ver. 2.0开始编号。这里需要感谢 [@ChaseOne1](https://github.com/ChaseOne1) 的帮助，我在“祝福语”部分加入了彩色字体，使得程序的视觉效果更丰富了。编译器是Visual Studio 2022。展示视频请见 https://www.bilibili.com/video/BV1XG4y1D7qf/
 
 **项目创意和逻辑、代码均为本人原创。**
 
